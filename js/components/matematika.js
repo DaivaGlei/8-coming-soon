@@ -10,12 +10,4 @@ const matematika = {
     dalinti: divide
 }
 
-
-
-
-export {
-    sum, 
-    minus,
-    multiply,
-    divide
-}
+export { matematika }
