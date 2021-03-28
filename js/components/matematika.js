@@ -1,7 +1,7 @@
-const sum = (a, b) => a+b;
-const minus = (a, b) => a-b;
-const multiply = (a, b) => a*b;
-const divide = (a, b) => a/b;
+const sum = (a, b) => a + b;
+const minus = (a, b) => a - b;
+const multiply = (a, b) => a * b;
+const divide = (a, b) => a / b;
 
 const matematika = {
     sudeti: sum,
@@ -11,4 +11,11 @@ const matematika = {
 }
 
 
-export { matematika }
+
+
+export {
+    sum, 
+    minus,
+    multiply,
+    divide
+}
